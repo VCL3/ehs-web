@@ -1,0 +1,38 @@
+.global-left {
+    float: left;
+}
+
+.global-right {
+    float: right;
+}
+
+/* StockPriceCard */
+.card-price {
+    font-size: 20px;
+}
+
+/* StockDetail */
+.stock-metadata {
+    padding: 0 0 0 50px;
+    margin: 0;
+}
+
+.stock-ticker {
+    margin: 0 0 5px 0;
+}
+
+.stock-name {
+    font-size: 20px;
+    margin: 0;
+}
+
+.stock-exchange {
+    margin: 0;
+    font-size: 15px;
+    color: darkgray;
+}
+
+.stock-detail-button {
+    width: 150px;
+    padding: 0 0 10px 0;
+}
